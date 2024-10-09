@@ -8,3 +8,5 @@
 4. BrightData, for unblocking websites with Captcha
 5. BeatifulSoup
 6. ChromeDriver, if captcha is not involved, then local version of ChromeDriver 
+
+In order to run the application, execute following in the terminal - _streamlit run main.py_
